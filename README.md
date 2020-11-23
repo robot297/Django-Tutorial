@@ -5,4 +5,4 @@ This is based off of Django's [documentation.](https://docs.djangoproject.com/en
 
 I use pipenv for dependency management.
 
-To follow along, look at the previous merge requests that document the changes.
+To follow along, look at the [previous merge requests](https://github.com/robot297/Django-Tutorial/pulls?q=is%3Apr+is%3Aclosed) that document the changes.
