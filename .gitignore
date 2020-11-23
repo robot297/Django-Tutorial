@@ -131,3 +131,6 @@ dmypy.json
 # Idea Specific
 .idea/
 .vscode/
+
+# Project specific
+*.sqlite3
